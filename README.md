@@ -1,2 +1,3 @@
 # XIV-Guides
-This will make a website that will allow users to look at a guide to many things in Final Fantasy XIV as to make their life easier
+# Proposed Architecture
+The architecture of this application will be composed of an HTML, CSS, JS as well as other languages as needed.
